@@ -1,4 +1,4 @@
-# SILAC
+# SILAC3
 A Python script to search and filter SILAC result based on customizable criteria and automatically retrieve gene information from online database.
 
 ## Author: 
