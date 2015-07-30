@@ -17,7 +17,7 @@ July 19, 2013
 - Write the searching result into a new csv file.
 
 ## Usage: 
-python SILAC_IPI.py [inputFileName] [OutputFileName]  
+python SILAC3.py [inputFileName] [OutputFileName]  
 
 ##Note:
 Please include xls2csv.py (convert .xls files to .csv files) and ipi.HUMAN.xrefs.txt (see Update) in the same directory.
